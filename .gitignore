@@ -1,1 +1,9 @@
 pydanticvenv/
+*.pyc
+.venv/lib/python3.11/site-packages
+.venv/bin
+pyvenv.cfg
+kernel.json
+*.png
+*.svg
+*.1
